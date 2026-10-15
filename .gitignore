@@ -1,0 +1,9 @@
+bin/
+dist/
+*.test
+# ключи и манифесты не должны попадать в git
+pki/
+*.key
+manifest.json
+*.manifest.json
+*.tar.gz
